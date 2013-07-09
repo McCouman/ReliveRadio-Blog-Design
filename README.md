@@ -11,7 +11,7 @@ auf Wordpress Bootstrap Basis
 </ul>
 
 <h3>Einrichten:</h3>
-<img src="https://raw.github.com/McCouman/ReliveRadio-Blog-Design/master/Bildschirmfoto.png">
+<img src="https://raw.github.com/McCouman/ReliveRadio-Blog-Design/master/Bildschirmfoto.png"> <br />
 <b>gehe unter: </b></br />
 <ul>
 <li>1.) Theme Options</li>
