@@ -1,7 +1,7 @@
 ReliveRadio-Blog-Design
 =======================
 
-auf Wordpress Bootstrap Basis, nachempfunden für <a href="http://reliveradio.de">Relive Radio</a> - design by <a href="http://podunion.com/podcaster/michaelmccouman/6214/michael-mccouman-jr">Michael McCouman jr.</a>:
+auf Wordpress Bootstrap Basis, nachempfunden für <a href="http://reliveradio.de">Relive Radio</a> - design by <a href="http://podunion.com/podcaster/michaelmccouman/6214/michael-mccouman-jr">Michael McCouman jr.</a>
 
 
 <a href="http://flattr.com/thing/973782/ReliveRadio-de-Podcasts-rund-um-die-Uhr">
