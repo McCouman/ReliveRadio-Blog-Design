@@ -49,7 +49,7 @@
 						<div class="container-fluid nav-container" style="max-width: 100% !important;">
 							<nav role="navigation">
 								<a style="font-size: 0.99625em; text-shadow: 0 1px 1px #333; margin-right: -8px;" class="brand" id="logo" title="<?php echo get_bloginfo('description'); ?>" 
-								href="<?php echo home_url(); ?>">ReliveRadio</a>
+								href="http://reliveradio.de">ReliveRadio</a>
 								
 								<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 							        <span class="icon-bar"></span>
